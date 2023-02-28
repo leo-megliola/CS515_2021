@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7cef9b93-a45a-4a25-a45f-f58149b927ab" name="cs515">
+        <fileTransfer rootFolder="/home/csu/lm1229" accessType="SFTP" host="agate.cs.unh.edu" port="22" sshConfigId="63881ea3-ff04-4f85-bb12-acb80d89e887" sshConfig="lm1229@agate.cs.unh.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
